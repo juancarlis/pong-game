@@ -7,6 +7,7 @@ authors = ["Juan I. Carlis <juancarlis93@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 pygame = "^2.1.2"
+pep8 = "^1.7.1"
 
 [tool.poetry.dev-dependencies]
 
